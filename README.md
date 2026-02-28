@@ -36,3 +36,5 @@ Exercises are labeled by section and follow their own letter counter. Some exerc
 These notes are a **work in progress** and remain in an evolving state. They are continuously revised and expanded as the course develops.
 
 This repository contains the most up-to-date public camera-ready version of the manuscript.
+
+A detailed record of revisions, structural updates, and newly completed material is maintained in the [CHANGELOG](CHANGELOG.md). Readers interested in tracking the evolution of the manuscript are encouraged to consult it for version-specific changes.
