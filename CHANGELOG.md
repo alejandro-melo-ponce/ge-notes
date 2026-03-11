@@ -1,5 +1,14 @@
 # Changelog
 
+## v. 2026-03-11ᓚ₍^. ̫ .^₎14:59
+
+### Changes
+- Corrected typos across all chapters, including several of the technical appendices.
+- Completed the chapter **Topological Structure of Metric Spaces**.
+- Added additional exercises throughout the text.
+
+---
+
 ## v. 2026-02-26ᓚ₍^. ̫ .^₎02:18
 
 Initial public camera-ready release.
