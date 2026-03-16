@@ -1,10 +1,23 @@
 # Changelog
 
+## v. 2026-03-17 ᘇ₍^ꓸ ̫ ꓸ^₎03:21
+
+### Changes
+-Completed the section **Sequences, Completeness, and Separability**
+-Added material on sequences of real numbers and the Bolzano-Weierstrass theorem. 
+-Added material on the Banach space of sequences convering to zero as an example.
+-Added material on sequential characterization of several concepts. 
+-Wrote proof of the Cantor Intersection Theorem.
+-Several exercises added. 
+
+The remaining chapters (exchange economies, production economies, core convergence, and extensions) are under development and will be released in future versions.
+
+
 ## v. 2026-03-11ᓚ₍^. ̫ .^₎14:59
 
 ### Changes
 - Corrected typos across all chapters, including several of the technical appendices.
-- Completed the chapter **Topological Structure of Metric Spaces**.
+- Completed the section **Topological Structure of Metric Spaces**.
 - Added additional exercises throughout the text.
 
 ---
@@ -35,4 +48,3 @@ Currently complete:
 - Real Normed Vector Spaces
 - Glossary on Binary Relations
 
-The remaining chapters (exchange economies, production economies, core convergence, and extensions) are under development and will be released in future versions.
