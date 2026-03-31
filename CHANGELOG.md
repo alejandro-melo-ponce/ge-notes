@@ -3,9 +3,9 @@
 ## v. 2026-03-31 ᘇ₍^ꓸ ̫ ꓸ^₎03:40
 
 ### Changes
--Completed Section on continuity
--Corrected some typos in the Convexity chapter
--Changed two exercises in the Convexity chapter, the original versions were not true in general real normed spaces, and added a new exercise with the correct extension. 
+- Completed Section on continuity
+- Corrected some typos in the Convexity chapter
+- Changed two exercises in the Convexity chapter, the original versions were not true in general real normed spaces, and added a new exercise with the correct extension. 
 
 The remaining chapters (exchange economies, production economies, core convergence, and extensions) are under development and will be released in future versions.
 
@@ -17,12 +17,12 @@ Many thanks to Yevgeniy (Zhenya) Gusseltsev and Bagdat (Bagi) Kussaiyn for repor
 ## v. 2026-03-17 ᘇ₍^ꓸ ̫ ꓸ^₎03:21
 
 ### Changes
--Completed the section **Sequences, Completeness, and Separability**
--Added material on sequences of real numbers and the Bolzano-Weierstrass theorem. 
--Added material on the Banach space of sequences convering to zero as an example.
--Added material on sequential characterization of several concepts. 
--Wrote proof of the Cantor Intersection Theorem.
--Several exercises added. 
+- Completed the section **Sequences, Completeness, and Separability**
+- Added material on sequences of real numbers and the Bolzano-Weierstrass theorem. 
+- Added material on the Banach space of sequences convering to zero as an example.
+- Added material on sequential characterization of several concepts. 
+- Wrote proof of the Cantor Intersection Theorem.
+- Several exercises added. 
 
 The remaining chapters (exchange economies, production economies, core convergence, and extensions) are under development and will be released in future versions.
 
