@@ -1,5 +1,19 @@
 # Changelog
 
+## v. 2026-03-31 ᘇ₍^ꓸ ̫ ꓸ^₎03:40
+
+### Changes
+-Completed Section on continuity
+-Corrected some typos in the Convexity chapter
+-Changed two exercises in the Convexity chapter, the original versions were not true in general real normed spaces, and added a new exercise with the correct extension. 
+
+The remaining chapters (exchange economies, production economies, core convergence, and extensions) are under development and will be released in future versions.
+
+### Acknowledgements
+
+Many thanks to Yevgeniy (Zhenya) Gusseltsev and Bagdat (Bagi) Kussaiyn for reporting typos, inconsistencies, and feedback on the problems. 
+
+
 ## v. 2026-03-17 ᘇ₍^ꓸ ̫ ꓸ^₎03:21
 
 ### Changes
