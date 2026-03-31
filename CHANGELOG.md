@@ -3,6 +3,7 @@
 ## v. 2026-03-31 ᘇ₍^ꓸ ̫ ꓸ^₎03:40
 
 ### Changes
+- Added a “Parental Advisory: Explicit Rigor” to the front of the album—I mean, the notes.
 - Completed Section on continuity
 - Corrected some typos in the Convexity chapter
 - Changed two exercises in the Convexity chapter, the original versions were not true in general real normed spaces, and added a new exercise with the correct extension. 
